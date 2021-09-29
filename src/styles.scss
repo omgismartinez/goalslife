@@ -2,10 +2,12 @@
 
 
 body {    
-    background: #2E9CE6;
-    /* background-image: linear-gradient(120deg, #3498db, #8e44ad); */
+    // background: #2E9CE6;
+    min-height: 100vh;
+    background-image: linear-gradient(120deg, #3498db, #8e44ad);
     padding: 3em;
     color: white;
+    margin: 0;
 }
 
 ul {
